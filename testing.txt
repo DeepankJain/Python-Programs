@@ -1,0 +1,3 @@
+this is the content
+i want to write in the file
+I am tessting this a s well
